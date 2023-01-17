@@ -1,8 +1,14 @@
-# ZeroPercentBrews-client
+# ZeroPercentBrews-client-[SNAPSHOT]
 
-This is the Client repo for the website 🔗 [ZeroPercentBrews.com]('https://www.zeropercentbrews.com/').
+📸 This is a snapshot of the active team [repo](https://github.com/alastair10/ZeroPercentBrews-client) for the client.
 
-[The accompanying API]('https://github.com/alastair10/ZeroPercentBrews-api')
+Website 🔗 [ZeroPercentBrews.com](https://www.zeropercentbrews.com/).
+
+[The accompanying API](https://github.com/alastair10/ZeroPercentBrews-api)
+
+## Tech stack
+
+<img height="30" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress&logoColor=white" />
 
 ## Purpose of site
 
@@ -27,19 +33,15 @@ A community based site for users to rate and recommend non-alcoholic beers.
 
 [TBC]
 
-## Tech stack
-
-<img height="30" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white" /> <img height="30" src="https://img.shields.io/badge/-Cypress-17202C?logo=Cypress&logoColor=white" />
-
 ## How to Explore the Code
 
-Fully deployed at [ZeroPercentBrews.com]('https://www.zeropercentbrews.com/).
+Fully deployed at [ZeroPercentBrews.com](https://www.zeropercentbrews.com/).
 
 To work with the code, once you have cloned the repository:
 
 ```bash
-cd ZeroPercentBrews-client;
+cd ZeroPercentBrews-client-snapshot;
 npm run start;
 ```
 
-This will automatically open up a development version of the site at [localhost:3000]('http://localhost:3000')
+This will automatically open up a development version of the site at [localhost:3000](http://localhost:3000)
